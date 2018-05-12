@@ -1,5 +1,8 @@
 _repo: All-in-It---K-1--Carries-On_12302
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hay, Ian
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '4304'
     url: http://www.gutenberg.org/2009/agents/4304
 description: 'A Continuation of The First Hundred Thousand, #12877.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12302#All-in-It---K-1--Carries-On
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
